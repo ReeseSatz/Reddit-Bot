@@ -1,2 +1,2 @@
 # Reddit-Bot
-This ios a reddit bot
+This is a reddit bot
